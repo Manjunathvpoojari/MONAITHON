@@ -13,7 +13,7 @@ The objective was to preprocess, train, and deploy segmentation models for two m
 1. **BRATS 2020 (3D MRI)** – Brain tumor segmentation (multi-class)  
    - Classes: Whole Tumor (WT), Tumor Core (TC), Enhancing Tumor (ET)  
    - [Dataset Link](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)
-   - [Working Model]()
+   - [Working Model](https://a342e9653191a704dd.gradio.live)
 
 2. **DRIVE (2D Fundus Images)** – Retinal vessel segmentation (binary)  
    - Classes: Vessel vs Background  
