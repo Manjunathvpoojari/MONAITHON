@@ -18,7 +18,7 @@ The objective was to preprocess, train, and deploy segmentation models for two m
 2. **DRIVE (2D Fundus Images)** – Retinal vessel segmentation (binary)  
    - Classes: Vessel vs Background  
    - [Dataset Link](https://www.kaggle.com/datasets/andrewmvd/drive-digital-retinal-images-for-vessel-extraction)
-   - [Working Model](https://8501-gpu-t4-s-31tc5eq1udare-c.asia-southeast1-0.prod.colab.dev/)
+   - [Working Model](https://8501-gpu-t4-s-31tc5eq1udare-c.asia-southeast1-0.prod.colab.dev)
 
 ---
 
